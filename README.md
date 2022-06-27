@@ -1,0 +1,2 @@
+# Panthea.CompareDifferentProperties
+一个在Unity中对比类中变量是否变化的工具类

@@ -1,0 +1,18 @@
+{
+    "name": "Panthea.CompareDifferentProperties.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b5854c8e20f5aca42b0dee3129c1b02f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
